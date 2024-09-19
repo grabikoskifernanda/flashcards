@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+
+body{
+    background-color: rgb(46, 223, 223);
+    font-family:"Inconsolata" ;
+}
+
+footer{
+    background-color: pink;
+    color: rgb(255, 255, 255);
+    bottom:0;
+    position: fixed;
+    width:100%;
+}
+
+
+footer p{
+    text-align: center;
+    font-size: 0.6rem;
+    height: 2rem;
+    margin-top: 0.5rem;
+}
